@@ -11,38 +11,43 @@ When you have completed the template, submit the link to the GitHub Pages site f
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
 
 ### Related project 1 ###
-*Insert name of project*
+Drawing Machine #1
 
-*Insert URL to project*
+http://www.feeldesain.com/drawing-machine-1-by-joseph-griffiths.html
 
 ![Image](missingimage.png)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because: 
+The Drawing Machine is a user controlled installation and stationary bike that draws on a canvas. This artistic bike and mixed media installation was created by Joseph Griffiths. How it works is a user predals and the spinning of the front wheel activiates a apparatus that manoeuvers pens that draw onto any surface. I was inspired by this because it creates unique designs and work of art that was made completely random. 
 
 ### Related project 2 ###
-*Insert name of project*
+ArtBot
 
-*Insert URL to project*
+https://make.techwillsaveus.com/microbit/activities/artbot
 
 ![Image](missingimage.png)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because: 
+The artbot is a drawing and artistic robot which users can create art with. I was lucky to find a microbit art device that has the instructions. I am going to us this model to experiment with and build as it takes just 15 minutes to make. 
+
 ### Related project 3 ###
-*Insert name of project*
+Senseless Drawing bot 
 
-*Insert URL to project*
+https://www.designboom.com/art/senseless-drawing-bot/
 
 ![Image](missingimage.png)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because: 
+I cam across this amazing bot that was created by So Kanno and Takashiro Yamaguchi that explores the relationship between art and machine technology. Similarly, I am wanting to develop project and device that interconnects art, artists and machine together. Senseless Drawing Bot is self-propelling device that sprays random lines onto a wall while moving on a skateboard. 
 ### Related project 4 ###
-*Insert name of project*
+Drawing Machine 
 
-*Insert URL to project*
+https://www.handmadecharlotte.com/a-the-tools-of-the-trade/
 
-![Image](missingimage.png)
+![Image](https://www.handmadecharlotte.com/a-the-tools-of-the-trade/)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because: 
+The Drawing Machine product relates to my porject because it is a small and simple drawing toy that everyone could use. In other words it shares the same aim, theme and purpose as my project. Drawing Machine is a do-it-yourself toy can you can make on your own with the provided materials of rubber band, small block of wax, felt pen, peg and a cotton real. What I took from it was including the the circular design.  
 ### Related project 5 ###
 *Insert name of project*
 
