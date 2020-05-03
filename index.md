@@ -48,10 +48,11 @@ https://www.handmadecharlotte.com/a-the-tools-of-the-trade/
 
 This project is related to mine because: 
 The Drawing Machine product relates to my porject because it is a small and simple drawing toy that everyone could use. In other words it shares the same aim, theme and purpose as my project. Drawing Machine is a do-it-yourself toy can you can make on your own with the provided materials of rubber band, small block of wax, felt pen, peg and a cotton real. What I took from it was including the the circular design.  
-### Related project 5 ###
-*Insert name of project*
 
-*Insert URL to project*
+### Related project 5 ###
+Scribble Bot
+
+https://twitter.com/apbarcenas/status/984285022185115648
 
 ![Image](missingimage.png)
 
@@ -63,7 +64,10 @@ This project is related to mine because *insert reasons here*.
 
 ![Image](missingimage.png)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because: 
+Scribble Bot is a prototype of one of the ideas that I developed. It sucessfully fufills its purpose and aim. 
+
+
 ### Related project 7 ###
 *Insert name of project*
 
